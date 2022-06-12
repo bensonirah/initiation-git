@@ -7,6 +7,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: antiquewhite;
+    color: white;
 }
 
 .container h1 {
