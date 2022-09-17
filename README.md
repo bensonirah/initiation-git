@@ -1,10 +1,11 @@
 # initiation-git
+
 A mini project to learn git basics
 
 Setting Up a README file
 
-
 ## Contribute
+
 - git remote -v
 - git remote add origin URL_OF_FORK
 - git remote add upstream URL_OF_PROJECT
