@@ -1,1 +1,7 @@
-console.log('Hello every body and welcome to sikaradev academy!');
+// Programmation en général
+// Instruction ou statements
+// Code structure
+// Variables
+// Data types
+// Interaction: alert,prompt,confirm
+// Type Conversions
