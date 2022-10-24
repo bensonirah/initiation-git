@@ -1,5 +1,5 @@
-.SILENT: run debug
+.SILENT: debug
 
 
 debug:
-node index.jx
+node index.js
